@@ -1,2 +1,2 @@
-# porfolio1
+# portfolio1
 Chloe Ngo's porfolio
